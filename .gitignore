@@ -1,6 +1,5 @@
 .DS_Store
 *.csv
-!README.md
 churn_env/
 __pycache__/
 *.pyc
